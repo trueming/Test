@@ -15,4 +15,5 @@ Hello GitHub!!
 
 系統需求：
    * 支援多人
+   * Windows iOS 的Github界面不同問題？
    * 本機端輸出（檔案其實也都在local）
